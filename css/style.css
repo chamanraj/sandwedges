@@ -1,0 +1,69 @@
+.toppad{
+  padding-top: 100px;
+}
+h2 {
+
+  font-family: 'Oswald', sans-serif;
+   text-align:center;
+   color: white;
+}
+
+h1 {
+   font-family: 'Oswald', sans-serif;
+   text-align:center;
+   color: white;
+}
+
+body {
+  background-image: url("bg_1.png");
+}
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+   font-family: 'Bitter', serif;
+   color: Black
+}
+
+.imgpad {
+  padding-top: 35px;
+  padding-bottom: 35px;
+
+}
+
+.talk_block{
+    float: left;
+    width: 600px;
+    position: relative;
+    background: #2f3945;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    font-size: 14px;
+    color: #717e90;
+    padding: 19px 25px 32px 30px;
+    margin-top:20px;
+}
+
+.well{
+	background-color: #b29d85;
+  vertical-align: middle;
+}
+
+.nav a{
+           color: white !important;
+           font-size: 1.2em !important;
+            }
+
+.txtcntr{
+    text-align:center;
+}
+nav{
+  height: 100px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; // remove the gap so it doesn't close
+ }
